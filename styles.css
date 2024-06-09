@@ -295,8 +295,23 @@ a {
     font-size: 16px;
   }
 
+  #about-me {
+    font-size: 14px;
+    padding: 0.5em 1em;
+  }
+
+  #about-image {
+    position: absolute;
+    top: 15rem;
+  }
+
   .main-links li {
     font-size: 14px;
     padding: 0.5em 1em;
+  }
+
+  #backBtn {
+    position: absolute;
+    top: 11rem;
   }
 }
